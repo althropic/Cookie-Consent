@@ -68,3 +68,7 @@ Works in all modern browsers that support:
 ## License
 
 MIT License
+
+## Acknowledgments
+
+[roadmap.sh](https://roadmap.sh/projects/cookie-consent) for the project specification.
